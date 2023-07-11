@@ -1,4 +1,0 @@
-some features to add:
-  -adding responsive.
-  -search history => .adding dropdown list for searchInput to show the history .storing the history in local storage.
-  -moving to full page Q&A page to show full result.
